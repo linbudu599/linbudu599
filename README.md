@@ -1,6 +1,15 @@
-### Hi there 👋 I'm Penumbra/Linbudu(林不渡)/qiongxin(穹心)
+### Hi👋 I'm Penumbra/Linbudu(林不渡)/qiongxin(穹心)
 
 
 - Front-End Intern In Taobao
 - Junior Undergraduate
 - \[ React, TypeScript, GraphQL \] Lover
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+[![Penumbra github stats](https://github-readme-stats.vercel.app/api?username=linbudu599&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
