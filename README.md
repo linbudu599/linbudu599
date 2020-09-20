@@ -1,9 +1,10 @@
 ### Hi👋 I'm Penumbra/Linbudu(林不渡)/qiongxin(穹心)
 
 
-- Front-End Intern In Taobao
-- Junior Undergraduate
+- Frontend Developer In TaoBao
+- Senior Student
 - \[ React, TypeScript, GraphQL \] Lover
+- Concact me: `linbudu@qq.com` 
 
 **Languages and Tools:**  
 
