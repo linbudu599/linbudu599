@@ -1,10 +1,11 @@
-### Hi👋 I'm Penumbra/Linbudu(林不渡)/qiongxin(穹心)
+### Hi👋 I'm Linbudu / qiongxin(穹心)
 
 
-- Frontend Developer In TaoBao
+- Frontend Developer In TaoBao FED
 - Senior Student
 - \[ React, TypeScript, GraphQL \] Lover
-- Concact me: `linbudu@qq.com` 
+- Learning Flutter & Apollo & ...
+- Contact me: `linbudu@qq.com` 
 
 **Languages and Tools:**  
 
@@ -15,4 +16,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 
-[![Penumbra github stats](https://github-readme-stats.vercel.app/api?username=linbudu599&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Linbudu's github stats](https://github-readme-stats.vercel.app/api?username=linbudu599&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
