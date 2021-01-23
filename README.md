@@ -1,11 +1,10 @@
-### Hi👋 I'm Linbudu / qiongxin(穹心)
+### Hi👋 I'm Linbudu(林不渡) / qiongxin(穹心)
 
 
 - Frontend Developer In TaoBao FED
 - Senior Student
 - \[ React, TypeScript, GraphQL \] Lover
-- Learning Flutter & Apollo & ...
-- Contact me: `linbudu@qq.com` 
+- Learning & Exploring & Growing
 
 **Languages and Tools:**  
 
