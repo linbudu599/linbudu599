@@ -1,9 +1,10 @@
 ### Hi👋 I'm Linbudu(林不渡) / qiongxin(穹心)
 
 
-- Frontend Developer In [TaoBao FED](https://fed.taobao.org/)
-- \[ React, TypeScript, GraphQL \] Lover
-- Learning & Exploring & Growing
+- Frontend Developer In [TaoBao FED](https://fed.taobao.org/).
+- \[ React, TypeScript, GraphQL \] Lover.
+- Learning & Exploring & Growing.
+- You can find all of my open source projects in [LinbuduLab](https://github.com/LinbuduLab).
 
 **Languages and Tools:**  
 
