@@ -3,9 +3,9 @@
 
 - Frontend Developer In [TaoBao FED](https://fed.taobao.org/).
 - \[ React, TypeScript, GraphQL \] Lover.
-- Learning & Exploring & Growing.
+- Learning, Exploring, Growing.
 - [Blog](https://linbudu.top/).
-- Find all of my open source projects in [LinbuduLab](https://github.com/LinbuduLab).
+- View all my open-source projects in [LinbuduLab](https://github.com/LinbuduLab).
 
 **Languages and Tools:**  
 
