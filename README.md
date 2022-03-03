@@ -1,8 +1,8 @@
-### Hi👋 I'm Linbudu(林不渡) / qiongxin(穹心)
+### Hi👋 I'm Linbudu(林不渡) / qiongxin(穹心) / Harold
 
 
-- Frontend Developer In [TaoBao FED](https://fed.taobao.org/).
-- \[ React, TypeScript, GraphQL \] Lover.
+- Frontend Developer In [Alibaba TaoBao FED](https://fed.taobao.org/).
+- \[ React, TypeScript, GraphQL, NodeJS \] Lover.
 - Learning, Exploring, Growing.
 - [Blog](https://linbudu.top/).
 - View all my open-source projects in [LinbuduLab](https://github.com/LinbuduLab).
