@@ -6,6 +6,7 @@
 - Learning, Exploring, Growing.
 - [Blog](https://linbudu.top/).
 - View all my open-source projects in [LinbuduLab](https://github.com/LinbuduLab).
+- **我的第一本 TypeScript 教程已上架掘金小册，详情戳：[TypeScript 全面进阶指南](https://juejin.cn/book/7086408430491172901)**
 
 **Languages and Tools:**  
 
