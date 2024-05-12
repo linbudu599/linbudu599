@@ -7,7 +7,7 @@
 - [Blog in GitBook!](https://linbudu.gitbook.io/spaces/)
 - View all my open-source projects in [LinbuduLab](https://github.com/LinbuduLab).
 - View all my technology shares in [Shares](https://github.com/linbudu599/Shares).
-- 我的两本 TypeScript 教程，[TypeScript 入门教程(免费)](https://juejin.cn/book/7288482920602271802?utm_source=profile_book)、[TypeScript 全面进阶指南](https://juejin.cn/book/7086408430491172901)
+- 我的免费 TypeScript 教程 [TypeScript 入门指南](https://juejin.cn/book/7288482920602271802?utm_source=profile_book).
 
 
 **Languages and Tools:**  
